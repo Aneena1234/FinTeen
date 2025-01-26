@@ -93,7 +93,7 @@ We welcome contributions! Follow these steps to contribute:
    ```
 5. Open a pull request.
 ##Images
-<img src="img1.PNG-" alt="quiz" width="300"/>
+<img src="img1.PNG" alt="quiz" width="300"/>
 --
 
 
