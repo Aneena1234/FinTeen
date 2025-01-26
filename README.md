@@ -95,6 +95,7 @@ We welcome contributions! Follow these steps to contribute:
 ##Images
 <img src="img1.PNG" alt="quiz" width="300"/>
 <img src="img2.PNG" alt="quiz" width="300"/>
+<img src="final.PNG" alt="quiz" width="300"/>
 
 
 ---
